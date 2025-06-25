@@ -2,7 +2,11 @@
 
 This project is a Python-based simulation of a 2-degree-of-freedom (2-DOF) planar robotic arm. It demonstrates the core principles of robotic motion by solving both forward and inverse kinematics, and plans a smooth trajectory between two points in space.
 
-![Animation of the robotic arm](robotic_arm_trajectory.gif)
+<div align="center">
+  <img src="robotic_arm_trajectory.gif" alt="Animation of the robotic arm" width="600"/>
+  <br />
+  <em>Fig 1. Animation showing the arm moving from a start to an end position along a planned linear trajectory.</em>
+</div>
 
 ## Key Concepts Implemented
 
